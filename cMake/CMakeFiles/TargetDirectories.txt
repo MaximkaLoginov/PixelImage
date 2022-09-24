@@ -1,0 +1,4 @@
+C:/Users/rofll/source/repos/mainImage/cMake/CMakeFiles/ALL_BUILD.dir
+C:/Users/rofll/source/repos/mainImage/cMake/CMakeFiles/ZERO_CHECK.dir
+C:/Users/rofll/source/repos/mainImage/cMake/ImageLib/CMakeFiles/ImageLib.dir
+C:/Users/rofll/source/repos/mainImage/cMake/Picture/CMakeFiles/Picture.dir
