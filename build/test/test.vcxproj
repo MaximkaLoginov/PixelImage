@@ -22,7 +22,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{95DA655E-9037-3A87-9229-02B319DD6F25}</ProjectGuid>
+    <ProjectGuid>{E9917582-F4E8-3CFD-928A-208E6EC7D845}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <WindowsTargetPlatformVersion>10.0.19041.0</WindowsTargetPlatformVersion>
     <Platform>x64</Platform>
@@ -59,25 +59,25 @@
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup>
     <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
-    <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\rofll\GitHub\PixelImage\build\test\Debug\</OutDir>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\rofll\source\repos\mainImage\PixelImage\build\test\Debug\</OutDir>
     <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">test.dir\Debug\</IntDir>
     <TargetName Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">test</TargetName>
     <TargetExt Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">.exe</TargetExt>
     <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</LinkIncremental>
     <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</GenerateManifest>
-    <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\rofll\GitHub\PixelImage\build\test\Release\</OutDir>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\rofll\source\repos\mainImage\PixelImage\build\test\Release\</OutDir>
     <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">test.dir\Release\</IntDir>
     <TargetName Condition="'$(Configuration)|$(Platform)'=='Release|x64'">test</TargetName>
     <TargetExt Condition="'$(Configuration)|$(Platform)'=='Release|x64'">.exe</TargetExt>
     <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkIncremental>
     <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</GenerateManifest>
-    <OutDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">C:\Users\rofll\GitHub\PixelImage\build\test\MinSizeRel\</OutDir>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">C:\Users\rofll\source\repos\mainImage\PixelImage\build\test\MinSizeRel\</OutDir>
     <IntDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">test.dir\MinSizeRel\</IntDir>
     <TargetName Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">test</TargetName>
     <TargetExt Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">.exe</TargetExt>
     <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">false</LinkIncremental>
     <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">true</GenerateManifest>
-    <OutDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">C:\Users\rofll\GitHub\PixelImage\build\test\RelWithDebInfo\</OutDir>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">C:\Users\rofll\source\repos\mainImage\PixelImage\build\test\RelWithDebInfo\</OutDir>
     <IntDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">test.dir\RelWithDebInfo\</IntDir>
     <TargetName Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">test</TargetName>
     <TargetExt Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">.exe</TargetExt>
@@ -119,8 +119,8 @@
       <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
-      <ImportLibrary>C:/Users/rofll/GitHub/PixelImage/build/test/Debug/test.lib</ImportLibrary>
-      <ProgramDataBaseFile>C:/Users/rofll/GitHub/PixelImage/build/test/Debug/test.pdb</ProgramDataBaseFile>
+      <ImportLibrary>C:/Users/rofll/source/repos/mainImage/PixelImage/build/test/Debug/test.lib</ImportLibrary>
+      <ProgramDataBaseFile>C:/Users/rofll/source/repos/mainImage/PixelImage/build/test/Debug/test.pdb</ProgramDataBaseFile>
       <SubSystem>Console</SubSystem>
     </Link>
     <ProjectReference>
@@ -162,8 +162,8 @@
       <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
       <GenerateDebugInformation>false</GenerateDebugInformation>
       <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
-      <ImportLibrary>C:/Users/rofll/GitHub/PixelImage/build/test/Release/test.lib</ImportLibrary>
-      <ProgramDataBaseFile>C:/Users/rofll/GitHub/PixelImage/build/test/Release/test.pdb</ProgramDataBaseFile>
+      <ImportLibrary>C:/Users/rofll/source/repos/mainImage/PixelImage/build/test/Release/test.lib</ImportLibrary>
+      <ProgramDataBaseFile>C:/Users/rofll/source/repos/mainImage/PixelImage/build/test/Release/test.pdb</ProgramDataBaseFile>
       <SubSystem>Console</SubSystem>
     </Link>
     <ProjectReference>
@@ -205,8 +205,8 @@
       <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
       <GenerateDebugInformation>false</GenerateDebugInformation>
       <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
-      <ImportLibrary>C:/Users/rofll/GitHub/PixelImage/build/test/MinSizeRel/test.lib</ImportLibrary>
-      <ProgramDataBaseFile>C:/Users/rofll/GitHub/PixelImage/build/test/MinSizeRel/test.pdb</ProgramDataBaseFile>
+      <ImportLibrary>C:/Users/rofll/source/repos/mainImage/PixelImage/build/test/MinSizeRel/test.lib</ImportLibrary>
+      <ProgramDataBaseFile>C:/Users/rofll/source/repos/mainImage/PixelImage/build/test/MinSizeRel/test.pdb</ProgramDataBaseFile>
       <SubSystem>Console</SubSystem>
     </Link>
     <ProjectReference>
@@ -247,8 +247,8 @@
       <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
-      <ImportLibrary>C:/Users/rofll/GitHub/PixelImage/build/test/RelWithDebInfo/test.lib</ImportLibrary>
-      <ProgramDataBaseFile>C:/Users/rofll/GitHub/PixelImage/build/test/RelWithDebInfo/test.pdb</ProgramDataBaseFile>
+      <ImportLibrary>C:/Users/rofll/source/repos/mainImage/PixelImage/build/test/RelWithDebInfo/test.lib</ImportLibrary>
+      <ProgramDataBaseFile>C:/Users/rofll/source/repos/mainImage/PixelImage/build/test/RelWithDebInfo/test.pdb</ProgramDataBaseFile>
       <SubSystem>Console</SubSystem>
     </Link>
     <ProjectReference>
@@ -260,7 +260,7 @@
       <UseUtf8Encoding>Always</UseUtf8Encoding>
       <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Building Custom Rule C:/Users/rofll/GitHub/PixelImage/test/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/rofll/GitHub/PixelImage -BC:/Users/rofll/GitHub/PixelImage/build --check-stamp-file C:/Users/rofll/GitHub/PixelImage/build/test/CMakeFiles/generate.stamp
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/rofll/GitHub/PixelImage -BC:/Users/rofll/source/repos/mainImage/PixelImage/build --check-stamp-file C:/Users/rofll/source/repos/mainImage/PixelImage/build/test/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -269,11 +269,11 @@ exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
       <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\rofll\GitHub\PixelImage\build\test\CMakeFiles\generate.stamp</Outputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\rofll\source\repos\mainImage\PixelImage\build\test\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</LinkObjects>
       <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Building Custom Rule C:/Users/rofll/GitHub/PixelImage/test/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/rofll/GitHub/PixelImage -BC:/Users/rofll/GitHub/PixelImage/build --check-stamp-file C:/Users/rofll/GitHub/PixelImage/build/test/CMakeFiles/generate.stamp
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/rofll/GitHub/PixelImage -BC:/Users/rofll/source/repos/mainImage/PixelImage/build --check-stamp-file C:/Users/rofll/source/repos/mainImage/PixelImage/build/test/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -282,11 +282,11 @@ exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
       <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\rofll\GitHub\PixelImage\build\test\CMakeFiles\generate.stamp</Outputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\rofll\source\repos\mainImage\PixelImage\build\test\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkObjects>
       <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">Building Custom Rule C:/Users/rofll/GitHub/PixelImage/test/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/rofll/GitHub/PixelImage -BC:/Users/rofll/GitHub/PixelImage/build --check-stamp-file C:/Users/rofll/GitHub/PixelImage/build/test/CMakeFiles/generate.stamp
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/rofll/GitHub/PixelImage -BC:/Users/rofll/source/repos/mainImage/PixelImage/build --check-stamp-file C:/Users/rofll/source/repos/mainImage/PixelImage/build/test/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -295,11 +295,11 @@ exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
       <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">C:\Users\rofll\GitHub\PixelImage\build\test\CMakeFiles\generate.stamp</Outputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">C:\Users\rofll\source\repos\mainImage\PixelImage\build\test\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">false</LinkObjects>
       <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">Building Custom Rule C:/Users/rofll/GitHub/PixelImage/test/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/rofll/GitHub/PixelImage -BC:/Users/rofll/GitHub/PixelImage/build --check-stamp-file C:/Users/rofll/GitHub/PixelImage/build/test/CMakeFiles/generate.stamp
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/rofll/GitHub/PixelImage -BC:/Users/rofll/source/repos/mainImage/PixelImage/build --check-stamp-file C:/Users/rofll/source/repos/mainImage/PixelImage/build/test/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -308,7 +308,7 @@ exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
       <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">C:\Users\rofll\GitHub\PixelImage\build\test\CMakeFiles\generate.stamp</Outputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">C:\Users\rofll\source\repos\mainImage\PixelImage\build\test\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">false</LinkObjects>
     </CustomBuild>
   </ItemGroup>
@@ -316,18 +316,18 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     <ClCompile Include="C:\Users\rofll\GitHub\PixelImage\test\test_main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="C:\Users\rofll\GitHub\PixelImage\build\ZERO_CHECK.vcxproj">
-      <Project>{851F3AA4-5DFE-3FCE-92A9-E574865C5EE5}</Project>
+    <ProjectReference Include="C:\Users\rofll\source\repos\mainImage\PixelImage\build\ZERO_CHECK.vcxproj">
+      <Project>{E38507C2-B58C-3743-93F6-C73F3F623EA4}</Project>
       <Name>ZERO_CHECK</Name>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\rofll\GitHub\PixelImage\build\ImageLib\ImageLib.vcxproj">
-      <Project>{74B1EF7F-224F-3267-8D38-D4A12444BE34}</Project>
+    <ProjectReference Include="C:\Users\rofll\source\repos\mainImage\PixelImage\build\ImageLib\ImageLib.vcxproj">
+      <Project>{0AE53586-6593-3D0D-A738-426887C9CE2E}</Project>
       <Name>ImageLib</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\rofll\GitHub\PixelImage\build\gtest\gtest.vcxproj">
-      <Project>{4CCE8E9E-8850-39F6-8676-0741B2C083B4}</Project>
+    <ProjectReference Include="C:\Users\rofll\source\repos\mainImage\PixelImage\build\gtest\gtest.vcxproj">
+      <Project>{9A81E894-6667-3CB3-84B5-92FE3C8A1A8C}</Project>
       <Name>gtest</Name>
     </ProjectReference>
   </ItemGroup>
