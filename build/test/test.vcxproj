@@ -314,6 +314,7 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="C:\Users\rofll\GitHub\PixelImage\test\test_main.cpp" />
+    <ClCompile Include="test.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="C:\Users\rofll\source\repos\mainImage\PixelImage\build\ZERO_CHECK.vcxproj">

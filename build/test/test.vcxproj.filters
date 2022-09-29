@@ -4,6 +4,9 @@
     <ClCompile Include="C:\Users\rofll\GitHub\PixelImage\test\test_main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="test.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <CustomBuild Include="C:\Users\rofll\GitHub\PixelImage\test\CMakeLists.txt" />

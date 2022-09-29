@@ -1,0 +1,9 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets(2065,5): warning : The referenced project 'C:\Users\rofll\source\repos\mainImage\PixelImage\build\gtest\gtest.vcxproj' does not exist.
+  Building Custom Rule C:/Users/rofll/GitHub/PixelImage/test/CMakeLists.txt
+  CMake is re-running because C:/Users/rofll/source/repos/mainImage/PixelImage/build/test/CMakeFiles/generate.stamp dependency file is missing.
+  -- Selecting Windows SDK version 10.0.19041.0 to target Windows 10.0.22000.
+  -- Configuring done
+  -- Generating done
+  -- Build files have been written to: C:/Users/rofll/source/repos/mainImage/PixelImage/build
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(245,5): warning MSB8065: настраиваемая сборка для элемента "C:\Users\rofll\GitHub\PixelImage\test\CMakeLists.txt" успешно выполнена, но указанные выходные данные "c:\users\rofll\source\repos\mainimage\pixelimage\build\test\cmakefiles\generate.stamp" не созданы. Это может привести к неправильной работе инкрементной сборки.
+LINK : fatal error LNK1104: не удается открыть файл "..\ImageLib\Debug\ImageLib.lib"

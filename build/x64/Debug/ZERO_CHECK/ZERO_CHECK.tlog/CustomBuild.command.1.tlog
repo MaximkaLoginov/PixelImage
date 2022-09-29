@@ -1,0 +1,10 @@
+^C:\USERS\ROFLL\SOURCE\REPOS\MAINIMAGE\PIXELIMAGE\BUILD\CMAKEFILES\2678FF735E3470F69EA04851797AE464\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/rofll/GitHub/PixelImage -BC:/Users/rofll/source/repos/mainImage/PixelImage/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/rofll/source/repos/mainImage/PixelImage/build/mainImage.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
