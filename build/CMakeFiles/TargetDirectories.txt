@@ -1,6 +1,0 @@
-C:/Users/rofll/source/repos/mainImage/PixelImage/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/rofll/source/repos/mainImage/PixelImage/build/CMakeFiles/ZERO_CHECK.dir
-C:/Users/rofll/source/repos/mainImage/PixelImage/build/ImageLib/CMakeFiles/ImageLib.dir
-C:/Users/rofll/source/repos/mainImage/PixelImage/build/Picture/CMakeFiles/Picture.dir
-C:/Users/rofll/source/repos/mainImage/PixelImage/build/gtest/CMakeFiles/gtest.dir
-C:/Users/rofll/source/repos/mainImage/PixelImage/build/test/CMakeFiles/test.dir
